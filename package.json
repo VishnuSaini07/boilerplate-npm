@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Vishnu Saini",
 	"description": "This shit do something",
+	"keywords": [ "freecodecamp", "microservice", "guide" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
